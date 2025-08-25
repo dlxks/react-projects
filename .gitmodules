@@ -22,3 +22,6 @@
 [submodule "react-portfolio"]
 	path = react-portfolio
 	url = https://github.com/dlxks/react-portfolio.git
+[submodule "marci-metzger"]
+	path = marci-metzger
+	url = https://github.com/dlxks/marci-metzger.git
