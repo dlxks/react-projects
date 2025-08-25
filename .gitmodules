@@ -1,0 +1,24 @@
+[submodule "yummify"]
+	path = yummify
+	url = https://github.com/dlxks/yummify.git
+[submodule "wordquest"]
+	path = wordquest
+	url = https://github.com/dlxks/wordquest.git
+[submodule "tenzies"]
+	path = tenzies
+	url = https://github.com/dlxks/tenzies.git
+[submodule "memeify"]
+	path = memeify
+	url = https://github.com/dlxks/memeify.git
+[submodule "little-lemon"]
+	path = little-lemon
+	url = https://github.com/dlxks/little-lemon.git
+[submodule "react-calculator"]
+	path = react-calculator
+	url = https://github.com/dlxks/react-calculator.git
+[submodule "vanlife"]
+	path = vanlife
+	url = https://github.com/dlxks/vanlife.git
+[submodule "react-portfolio"]
+	path = react-portfolio
+	url = https://github.com/dlxks/react-portfolio.git
